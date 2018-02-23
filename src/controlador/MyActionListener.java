@@ -7,6 +7,7 @@ import javax.swing.JButton;
 
 public class MyActionListener implements ActionListener {
 
+	int prueba;
 	TresNRaya control;
 	
 	public MyActionListener(TresNRaya control) {
